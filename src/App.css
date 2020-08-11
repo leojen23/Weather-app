@@ -38,10 +38,15 @@ body {
 .weather.card.darken-1 {
   background-color: rgba(32,34,49,0.6);
   border-radius: 10px;
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 1px;
+  
 }
 
 .weather.card .card-action {
   background: rgba(61, 61, 61, 0.8);
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 2px;
 }
 
 .weather .temperature {
